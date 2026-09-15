@@ -1,0 +1,224 @@
+{
+  "ar1_N50_T1000": {
+    "0": {
+      "bdgraph_f1": 0.9702970297029703,
+      "bdgraph_precision": 0.9423076923076923,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.0582778019817769,
+      "bdgraph_samples_per_sec": 1202.61005385404,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 0
+    },
+    "1": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04808122385262269,
+      "bdgraph_samples_per_sec": 1000.64068330646,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 1
+    },
+    "2": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.047055828317875574,
+      "bdgraph_samples_per_sec": 1059.80958416354,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 2
+    },
+    "3": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06019872130037508,
+      "bdgraph_samples_per_sec": 1045.151886454,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 3
+    },
+    "4": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05371581612677825,
+      "bdgraph_samples_per_sec": 983.229751819878,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 4
+    },
+    "5": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05636709551267534,
+      "bdgraph_samples_per_sec": 971.754720149307,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 5
+    },
+    "6": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04727938430774766,
+      "bdgraph_samples_per_sec": 884.302916101148,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 6
+    },
+    "7": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05484933873188046,
+      "bdgraph_samples_per_sec": 927.781462913966,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 7
+    },
+    "8": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05338155023496871,
+      "bdgraph_samples_per_sec": 1035.27868643665,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 8
+    },
+    "9": {
+      "bdgraph_f1": 0.9607843137254902,
+      "bdgraph_precision": 0.9245283018867925,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05731545927797636,
+      "bdgraph_samples_per_sec": 948.87937866253,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 9
+    },
+    "10": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06215814650825496,
+      "bdgraph_samples_per_sec": 909.97231554572,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 10
+    },
+    "11": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06241400302264167,
+      "bdgraph_samples_per_sec": 960.713799387767,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 11
+    },
+    "12": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05216012998699029,
+      "bdgraph_samples_per_sec": 1009.80139363679,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 12
+    },
+    "13": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.053813754223661775,
+      "bdgraph_samples_per_sec": 928.574516163116,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 13
+    },
+    "14": {
+      "bdgraph_f1": 0.9702970297029703,
+      "bdgraph_precision": 0.9423076923076923,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05912970542959464,
+      "bdgraph_samples_per_sec": 1006.35687605462,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 14
+    },
+    "15": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.046606595660460944,
+      "bdgraph_samples_per_sec": 872.249281340729,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 15
+    },
+    "16": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06598933704625232,
+      "bdgraph_samples_per_sec": 1061.83486651951,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 16
+    },
+    "17": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05302555260277647,
+      "bdgraph_samples_per_sec": 871.89638738538,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 17
+    },
+    "18": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.051485847842570084,
+      "bdgraph_samples_per_sec": 926.627582415743,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 18
+    },
+    "19": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05051263688381618,
+      "bdgraph_samples_per_sec": 881.181895671655,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 1000,
+      "seed": 19
+    }
+  }
+}

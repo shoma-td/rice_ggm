@@ -1,0 +1,224 @@
+{
+  "ar1_N50_T500": {
+    "0": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.08224868248879925,
+      "bdgraph_samples_per_sec": 860.885434695622,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 0
+    },
+    "1": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07640476794364504,
+      "bdgraph_samples_per_sec": 854.205317215806,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 1
+    },
+    "2": {
+      "bdgraph_f1": 0.9607843137254902,
+      "bdgraph_precision": 0.9245283018867925,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.0683722074618887,
+      "bdgraph_samples_per_sec": 732.606357772794,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 2
+    },
+    "3": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07991291507574699,
+      "bdgraph_samples_per_sec": 744.455570237105,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 3
+    },
+    "4": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06802950827721868,
+      "bdgraph_samples_per_sec": 720.34836640988,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 4
+    },
+    "5": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07573289468096854,
+      "bdgraph_samples_per_sec": 804.644576802785,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 5
+    },
+    "6": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.0825834588578286,
+      "bdgraph_samples_per_sec": 796.593773363466,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 6
+    },
+    "7": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06999228505935329,
+      "bdgraph_samples_per_sec": 800.53636247774,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 7
+    },
+    "8": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.08704808331487061,
+      "bdgraph_samples_per_sec": 868.605770301075,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 8
+    },
+    "9": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.09077234419555467,
+      "bdgraph_samples_per_sec": 940.107142929187,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 9
+    },
+    "10": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.08503236419867256,
+      "bdgraph_samples_per_sec": 874.408295310934,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 10
+    },
+    "11": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.09848585421004687,
+      "bdgraph_samples_per_sec": 909.098968104405,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 11
+    },
+    "12": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.0769771566922138,
+      "bdgraph_samples_per_sec": 798.944570523177,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 12
+    },
+    "13": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.9607843137254902,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.08199572965489803,
+      "bdgraph_samples_per_sec": 1069.30882888322,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 13
+    },
+    "14": {
+      "bdgraph_f1": 0.9607843137254902,
+      "bdgraph_precision": 0.9245283018867925,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07842394393524237,
+      "bdgraph_samples_per_sec": 843.57664652708,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 14
+    },
+    "15": {
+      "bdgraph_f1": 0.9702970297029703,
+      "bdgraph_precision": 0.9423076923076923,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07207943264569712,
+      "bdgraph_samples_per_sec": 813.145953675559,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 15
+    },
+    "16": {
+      "bdgraph_f1": 0.9607843137254902,
+      "bdgraph_precision": 0.9245283018867925,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.08037827961477663,
+      "bdgraph_samples_per_sec": 868.974683157481,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 16
+    },
+    "17": {
+      "bdgraph_f1": 0.9702970297029703,
+      "bdgraph_precision": 0.9423076923076923,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.08811546509886106,
+      "bdgraph_samples_per_sec": 840.683148861788,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 17
+    },
+    "18": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07235327384605625,
+      "bdgraph_samples_per_sec": 925.718310805714,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 18
+    },
+    "19": {
+      "bdgraph_f1": 0.98989898989899,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07044029549965256,
+      "bdgraph_samples_per_sec": 822.170975841706,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 500,
+      "seed": 19
+    }
+  }
+}

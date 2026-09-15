@@ -1,0 +1,224 @@
+{
+  "erdos_renyi_N50_T1000": {
+    "0": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04335097105070542,
+      "bdgraph_samples_per_sec": 874.556296236871,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 0
+    },
+    "1": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05088249703526463,
+      "bdgraph_samples_per_sec": 953.996381376879,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 1
+    },
+    "2": {
+      "bdgraph_f1": 0.8282828282828283,
+      "bdgraph_precision": 0.7454545454545455,
+      "bdgraph_recall": 0.9318181818181818,
+      "bdgraph_frobenius_error": 0.1886878523089252,
+      "bdgraph_samples_per_sec": 55.5866175508219,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 2
+    },
+    "3": {
+      "bdgraph_f1": 0.9922480620155039,
+      "bdgraph_precision": 0.9846153846153847,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04953862385005556,
+      "bdgraph_samples_per_sec": 821.601700635348,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 3
+    },
+    "4": {
+      "bdgraph_f1": 0.9863013698630136,
+      "bdgraph_precision": 0.972972972972973,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.054973947711764566,
+      "bdgraph_samples_per_sec": 50.4970322442199,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 4
+    },
+    "5": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.054244140577951724,
+      "bdgraph_samples_per_sec": 975.138332201877,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 5
+    },
+    "6": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04458506620363657,
+      "bdgraph_samples_per_sec": 939.481000127562,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 6
+    },
+    "7": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.045497493261213655,
+      "bdgraph_samples_per_sec": 79.1877945072367,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 7
+    },
+    "8": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.030997651026780405,
+      "bdgraph_samples_per_sec": 71.8573001691214,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 8
+    },
+    "9": {
+      "bdgraph_f1": 0.9896907216494846,
+      "bdgraph_precision": 0.9795918367346939,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.049838120987294496,
+      "bdgraph_samples_per_sec": 889.378051416172,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 9
+    },
+    "10": {
+      "bdgraph_f1": 0.98,
+      "bdgraph_precision": 0.98,
+      "bdgraph_recall": 0.98,
+      "bdgraph_frobenius_error": 0.11234337185247381,
+      "bdgraph_samples_per_sec": 84.9302790968342,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 10
+    },
+    "11": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07789345386450945,
+      "bdgraph_samples_per_sec": 61.9565960948873,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 11
+    },
+    "12": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04542537944007272,
+      "bdgraph_samples_per_sec": 740.281214991585,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 12
+    },
+    "13": {
+      "bdgraph_f1": 0.9894736842105263,
+      "bdgraph_precision": 0.9791666666666666,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.047755064363054635,
+      "bdgraph_samples_per_sec": 71.4795734400066,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 13
+    },
+    "14": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.048955350510695224,
+      "bdgraph_samples_per_sec": 971.881997422637,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 14
+    },
+    "15": {
+      "bdgraph_f1": 0.9914529914529915,
+      "bdgraph_precision": 0.9830508474576272,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.05490526598384923,
+      "bdgraph_samples_per_sec": 903.663990630498,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 15
+    },
+    "16": {
+      "bdgraph_f1": 0.992,
+      "bdgraph_precision": 0.9841269841269841,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.06043106729635921,
+      "bdgraph_samples_per_sec": 914.20336161168,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 16
+    },
+    "17": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.04981950923382228,
+      "bdgraph_samples_per_sec": 872.29299932659,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 17
+    },
+    "18": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.03432527573654328,
+      "bdgraph_samples_per_sec": 463.064530828682,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 18
+    },
+    "19": {
+      "bdgraph_f1": 0.9906542056074766,
+      "bdgraph_precision": 0.9814814814814815,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.049522714283579745,
+      "bdgraph_samples_per_sec": 86.9167461230331,
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 1000,
+      "seed": 19
+    }
+  }
+}
