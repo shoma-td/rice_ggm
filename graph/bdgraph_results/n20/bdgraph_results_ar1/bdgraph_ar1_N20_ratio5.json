@@ -1,0 +1,224 @@
+{
+  "ar1_N20_T100": {
+    "0": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.14587834273573183,
+      "bdgraph_samples_per_sec": 3190.30169897494,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 0
+    },
+    "1": {
+      "bdgraph_f1": 0.9230769230769231,
+      "bdgraph_precision": 0.9,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.21840001613082427,
+      "bdgraph_samples_per_sec": 3217.51354245656,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 1
+    },
+    "2": {
+      "bdgraph_f1": 0.972972972972973,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.25691936930229736,
+      "bdgraph_samples_per_sec": 3125.95496722699,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 2
+    },
+    "3": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.22705656333366578,
+      "bdgraph_samples_per_sec": 3132.5450756174,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 3
+    },
+    "4": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.2430483436163865,
+      "bdgraph_samples_per_sec": 3142.87780269268,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 4
+    },
+    "5": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.19202459751489112,
+      "bdgraph_samples_per_sec": 3166.58909312185,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 5
+    },
+    "6": {
+      "bdgraph_f1": 0.95,
+      "bdgraph_precision": 0.9047619047619048,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.2765216902178819,
+      "bdgraph_samples_per_sec": 3139.58951382743,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 6
+    },
+    "7": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.1881679540912465,
+      "bdgraph_samples_per_sec": 3111.38549916815,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 7
+    },
+    "8": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.15769242537668982,
+      "bdgraph_samples_per_sec": 3119.48242954666,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 8
+    },
+    "9": {
+      "bdgraph_f1": 0.9230769230769231,
+      "bdgraph_precision": 0.9,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.19437620203270517,
+      "bdgraph_samples_per_sec": 3251.19745504105,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 9
+    },
+    "10": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.1955480786611787,
+      "bdgraph_samples_per_sec": 3190.84050187051,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 10
+    },
+    "11": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.1830274618969179,
+      "bdgraph_samples_per_sec": 3139.65825567721,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 11
+    },
+    "12": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.19192133474707038,
+      "bdgraph_samples_per_sec": 3073.60358663688,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 12
+    },
+    "13": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.17933294066270977,
+      "bdgraph_samples_per_sec": 3103.59284760273,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 13
+    },
+    "14": {
+      "bdgraph_f1": 0.9,
+      "bdgraph_precision": 0.8571428571428571,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.20482454314648013,
+      "bdgraph_samples_per_sec": 3086.78658191498,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 14
+    },
+    "15": {
+      "bdgraph_f1": 0.972972972972973,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.21757005420033518,
+      "bdgraph_samples_per_sec": 3303.60631333742,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 15
+    },
+    "16": {
+      "bdgraph_f1": 0.972972972972973,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.19598723315036914,
+      "bdgraph_samples_per_sec": 3207.70098348219,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 16
+    },
+    "17": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.14502185325049488,
+      "bdgraph_samples_per_sec": 3181.66329609778,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 17
+    },
+    "18": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.15177728024536244,
+      "bdgraph_samples_per_sec": 3167.2377009892,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 18
+    },
+    "19": {
+      "bdgraph_f1": 0.972972972972973,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.20102867713271633,
+      "bdgraph_samples_per_sec": 3183.58560826063,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "seed": 19
+    }
+  }
+}
