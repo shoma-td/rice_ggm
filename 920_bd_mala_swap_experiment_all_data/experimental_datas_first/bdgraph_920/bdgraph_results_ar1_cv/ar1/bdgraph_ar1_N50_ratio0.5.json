@@ -1,0 +1,224 @@
+{
+  "ar1_N50_T25": {
+    "0": {
+      "bdgraph_f1": 0.5918367346938775,
+      "bdgraph_precision": 0.5918367346938775,
+      "bdgraph_recall": 0.5918367346938775,
+      "bdgraph_frobenius_error": 1.0361571427605452,
+      "bdgraph_samples_per_sec": 878.643124759747,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 0
+    },
+    "1": {
+      "bdgraph_f1": 0.49019607843137253,
+      "bdgraph_precision": 0.4716981132075472,
+      "bdgraph_recall": 0.5102040816326531,
+      "bdgraph_frobenius_error": 1.057543853104406,
+      "bdgraph_samples_per_sec": 911.057556027391,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 1
+    },
+    "2": {
+      "bdgraph_f1": 0.45544554455445546,
+      "bdgraph_precision": 0.4423076923076923,
+      "bdgraph_recall": 0.46938775510204084,
+      "bdgraph_frobenius_error": 1.055537288081376,
+      "bdgraph_samples_per_sec": 834.152177786829,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 2
+    },
+    "3": {
+      "bdgraph_f1": 0.7115384615384616,
+      "bdgraph_precision": 0.6727272727272727,
+      "bdgraph_recall": 0.7551020408163265,
+      "bdgraph_frobenius_error": 0.8519509855222275,
+      "bdgraph_samples_per_sec": 651.355158076702,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 3
+    },
+    "4": {
+      "bdgraph_f1": 0.624,
+      "bdgraph_precision": 0.5131578947368421,
+      "bdgraph_recall": 0.7959183673469388,
+      "bdgraph_frobenius_error": 0.909155622644876,
+      "bdgraph_samples_per_sec": 537.870749178232,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 4
+    },
+    "5": {
+      "bdgraph_f1": 0.3655913978494624,
+      "bdgraph_precision": 0.38636363636363635,
+      "bdgraph_recall": 0.3469387755102041,
+      "bdgraph_frobenius_error": 1.1103918502708552,
+      "bdgraph_samples_per_sec": 1024.94330567054,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 5
+    },
+    "6": {
+      "bdgraph_f1": 0.6949152542372882,
+      "bdgraph_precision": 0.5942028985507246,
+      "bdgraph_recall": 0.8367346938775511,
+      "bdgraph_frobenius_error": 0.8982403309732834,
+      "bdgraph_samples_per_sec": 561.783314423297,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 6
+    },
+    "7": {
+      "bdgraph_f1": 0.21978021978021978,
+      "bdgraph_precision": 0.23809523809523808,
+      "bdgraph_recall": 0.20408163265306123,
+      "bdgraph_frobenius_error": 1.4087905693240605,
+      "bdgraph_samples_per_sec": 1088.90177585995,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 7
+    },
+    "8": {
+      "bdgraph_f1": 0.6942148760330579,
+      "bdgraph_precision": 0.5833333333333334,
+      "bdgraph_recall": 0.8571428571428571,
+      "bdgraph_frobenius_error": 0.7379575108466184,
+      "bdgraph_samples_per_sec": 851.921004576458,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 8
+    },
+    "9": {
+      "bdgraph_f1": 0.175,
+      "bdgraph_precision": 0.22580645161290322,
+      "bdgraph_recall": 0.14285714285714285,
+      "bdgraph_frobenius_error": 1.1754866313990924,
+      "bdgraph_samples_per_sec": 1069.13165985827,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 9
+    },
+    "10": {
+      "bdgraph_f1": 0.6140350877192983,
+      "bdgraph_precision": 0.5384615384615384,
+      "bdgraph_recall": 0.7142857142857143,
+      "bdgraph_frobenius_error": 0.9814259052541378,
+      "bdgraph_samples_per_sec": 555.26542517222,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 10
+    },
+    "11": {
+      "bdgraph_f1": 0.2857142857142857,
+      "bdgraph_precision": 0.30952380952380953,
+      "bdgraph_recall": 0.2653061224489796,
+      "bdgraph_frobenius_error": 1.182600497431,
+      "bdgraph_samples_per_sec": 766.920266232232,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 11
+    },
+    "12": {
+      "bdgraph_f1": 0.2696629213483146,
+      "bdgraph_precision": 0.3,
+      "bdgraph_recall": 0.24489795918367346,
+      "bdgraph_frobenius_error": 1.3955363014834818,
+      "bdgraph_samples_per_sec": 794.115000590478,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 12
+    },
+    "13": {
+      "bdgraph_f1": 0.60431654676259,
+      "bdgraph_precision": 0.4666666666666667,
+      "bdgraph_recall": 0.8571428571428571,
+      "bdgraph_frobenius_error": 1.1477322989375882,
+      "bdgraph_samples_per_sec": 511.269528030584,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 13
+    },
+    "14": {
+      "bdgraph_f1": 0.509090909090909,
+      "bdgraph_precision": 0.45901639344262296,
+      "bdgraph_recall": 0.5714285714285714,
+      "bdgraph_frobenius_error": 1.1240056441585486,
+      "bdgraph_samples_per_sec": 797.259367700724,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 14
+    },
+    "15": {
+      "bdgraph_f1": 0.6074074074074074,
+      "bdgraph_precision": 0.47674418604651164,
+      "bdgraph_recall": 0.8367346938775511,
+      "bdgraph_frobenius_error": 0.9013004250099202,
+      "bdgraph_samples_per_sec": 844.823649802672,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 15
+    },
+    "16": {
+      "bdgraph_f1": 0.39603960396039606,
+      "bdgraph_precision": 0.38461538461538464,
+      "bdgraph_recall": 0.40816326530612246,
+      "bdgraph_frobenius_error": 1.3478328993494837,
+      "bdgraph_samples_per_sec": 1080.75013413381,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 16
+    },
+    "17": {
+      "bdgraph_f1": 0.4375,
+      "bdgraph_precision": 0.44680851063829785,
+      "bdgraph_recall": 0.42857142857142855,
+      "bdgraph_frobenius_error": 0.9466848870160518,
+      "bdgraph_samples_per_sec": 1144.08391031758,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 17
+    },
+    "18": {
+      "bdgraph_f1": 0.5714285714285714,
+      "bdgraph_precision": 0.5357142857142857,
+      "bdgraph_recall": 0.6122448979591837,
+      "bdgraph_frobenius_error": 1.1151172224246597,
+      "bdgraph_samples_per_sec": 940.962579369735,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 18
+    },
+    "19": {
+      "bdgraph_f1": 0.25316455696202533,
+      "bdgraph_precision": 0.3333333333333333,
+      "bdgraph_recall": 0.20408163265306123,
+      "bdgraph_frobenius_error": 1.0228802752822332,
+      "bdgraph_samples_per_sec": 1168.15848594907,
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "seed": 19
+    }
+  }
+}
