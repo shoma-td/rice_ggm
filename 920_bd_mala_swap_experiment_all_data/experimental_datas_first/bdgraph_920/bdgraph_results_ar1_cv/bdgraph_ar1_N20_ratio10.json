@@ -1,0 +1,224 @@
+{
+  "ar1_N20_T200": {
+    "0": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.13860870997774347,
+      "bdgraph_samples_per_sec": 2942.66292394182,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 0
+    },
+    "1": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.13833432859291472,
+      "bdgraph_samples_per_sec": 2871.45930793878,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 1
+    },
+    "2": {
+      "bdgraph_f1": 0.926829268292683,
+      "bdgraph_precision": 0.8636363636363636,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.15339596206262013,
+      "bdgraph_samples_per_sec": 2862.75992645001,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 2
+    },
+    "3": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.12398192679208413,
+      "bdgraph_samples_per_sec": 2740.3623039981,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 3
+    },
+    "4": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.13437228124063308,
+      "bdgraph_samples_per_sec": 2559.03669074767,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 4
+    },
+    "5": {
+      "bdgraph_f1": 0.95,
+      "bdgraph_precision": 0.9047619047619048,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.13211813463533276,
+      "bdgraph_samples_per_sec": 2900.73901586387,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 5
+    },
+    "6": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.15583624170886204,
+      "bdgraph_samples_per_sec": 2529.98194336665,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 6
+    },
+    "7": {
+      "bdgraph_f1": 0.95,
+      "bdgraph_precision": 0.9047619047619048,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.1569872442539873,
+      "bdgraph_samples_per_sec": 2995.91805393726,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 7
+    },
+    "8": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.12028665459020398,
+      "bdgraph_samples_per_sec": 2645.36067389368,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 8
+    },
+    "9": {
+      "bdgraph_f1": 0.9142857142857143,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.8421052631578947,
+      "bdgraph_frobenius_error": 0.2160285466183322,
+      "bdgraph_samples_per_sec": 2918.97322084896,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 9
+    },
+    "10": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.11694416972635778,
+      "bdgraph_samples_per_sec": 2606.16016439864,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 10
+    },
+    "11": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.15399527550627287,
+      "bdgraph_samples_per_sec": 2846.92248875211,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 11
+    },
+    "12": {
+      "bdgraph_f1": 0.972972972972973,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.12317152156477292,
+      "bdgraph_samples_per_sec": 2919.13929910936,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 12
+    },
+    "13": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.07813597289293882,
+      "bdgraph_samples_per_sec": 2573.33511870826,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 13
+    },
+    "14": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.09347719968311695,
+      "bdgraph_samples_per_sec": 2791.5844554492,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 14
+    },
+    "15": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.09553164639977434,
+      "bdgraph_samples_per_sec": 2591.42081926582,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 15
+    },
+    "16": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.1242319653078868,
+      "bdgraph_samples_per_sec": 2865.17996418443,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 16
+    },
+    "17": {
+      "bdgraph_f1": 1.0,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.1128312666780539,
+      "bdgraph_samples_per_sec": 2877.83879953281,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 17
+    },
+    "18": {
+      "bdgraph_f1": 0.9743589743589743,
+      "bdgraph_precision": 0.95,
+      "bdgraph_recall": 1.0,
+      "bdgraph_frobenius_error": 0.09815358217254969,
+      "bdgraph_samples_per_sec": 2685.99151066626,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 18
+    },
+    "19": {
+      "bdgraph_f1": 0.972972972972973,
+      "bdgraph_precision": 1.0,
+      "bdgraph_recall": 0.9473684210526315,
+      "bdgraph_frobenius_error": 0.13791169802862838,
+      "bdgraph_samples_per_sec": 2977.73428168077,
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "seed": 19
+    }
+  }
+}
