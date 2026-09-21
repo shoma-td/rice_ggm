@@ -1,0 +1,1995 @@
+{
+  "threshold": 1.05,
+  "n_datasets": 26,
+  "grand_total_flagged_seeds": 256,
+  "grand_total_seeds": 520,
+  "datasets": [
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\ar1\\ar1_N20_tn05_20260919_235718\\summary_results.json",
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 10,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0182600205267949,
+          "mean": 1.0110592583870082
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0433317976698924,
+          "mean": 1.02878639336013
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0162060200034182,
+          "mean": 1.004302903495342
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.021271655433473,
+          "mean": 1.0106866619567878
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 0,
+        "flagged_seeds": []
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\ar1\\results_geweke_rhat_ar1_919n20tn2\\ar1_N20_20260920_000547\\summary_results.json",
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 40,
+      "T_over_N": 2.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.01926023053844,
+          "mean": 1.0100235258063825
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 1,
+          "flagged_seeds": [
+            6
+          ],
+          "max": 1.0507006168465458,
+          "mean": 1.0304101593350001
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.016899549234719,
+          "mean": 1.004512304055646
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0273489012849941,
+          "mean": 1.0113972721679845
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 1,
+        "flagged_seeds": [
+          6
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\ar1\\results_geweke_rhat_ar1_919n20tn5\\ar1_N20_20260920_000555\\summary_results.json",
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 100,
+      "T_over_N": 5.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0199693581876483,
+          "mean": 1.0070761993978992
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.034960309955093,
+          "mean": 1.0145816346855416
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0098943778776754,
+          "mean": 1.0031900772233646
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0177685598119148,
+          "mean": 1.0073697209509298
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 0,
+        "flagged_seeds": []
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\ar1\\results_geweke_rhat_ar1_919n20tn10\\ar1_N20_20260920_000547\\summary_results.json",
+      "graph_type": "ar1",
+      "N": 20,
+      "T": 200,
+      "T_over_N": 10.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0314839414667116,
+          "mean": 1.0101674116970287
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.037889337963565,
+          "mean": 1.0223431061901305
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0195224996672612,
+          "mean": 1.004744648415719
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0351779842733095,
+          "mean": 1.0147216185811758
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 0,
+        "flagged_seeds": []
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\ar1\\n50\\ar1_N50_tn05_20260919_065642\\summary_results.json",
+      "graph_type": "ar1",
+      "N": 50,
+      "T": 25,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0336072401144716,
+          "mean": 1.0204169159808478
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 13,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            7,
+            11,
+            12,
+            14,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.1123801405382756,
+          "mean": 1.0616948485138151
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.021231018066439,
+          "mean": 1.0069861425237956
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0348501343097674,
+          "mean": 1.019471287541248
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 13,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          7,
+          11,
+          12,
+          14,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\erdos_renyi\\erdos_renyi_N20_tn05_20260917_103219\\summary_results.json",
+      "graph_type": "erdos_renyi",
+      "N": 20,
+      "T": 10,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 3,
+          "flagged_seeds": [
+            3,
+            7,
+            9
+          ],
+          "max": 1.0829187194792471,
+          "mean": 1.0333064986078875
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 12,
+          "flagged_seeds": [
+            0,
+            2,
+            3,
+            5,
+            7,
+            8,
+            9,
+            10,
+            14,
+            15,
+            16,
+            17
+          ],
+          "max": 1.1355907735880113,
+          "mean": 1.0604799570029573
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0066518567207896,
+          "mean": 1.0020275102479346
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.013215588135493,
+          "mean": 1.0061281205740293
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 12,
+        "flagged_seeds": [
+          0,
+          2,
+          3,
+          5,
+          7,
+          8,
+          9,
+          10,
+          14,
+          15,
+          16,
+          17
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\erdos_renyi\\erdos_renyi_N20_tn2_20260917_095238\\summary_results.json",
+      "graph_type": "erdos_renyi",
+      "N": 20,
+      "T": 40,
+      "T_over_N": 2.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 7,
+          "flagged_seeds": [
+            2,
+            9,
+            11,
+            13,
+            16,
+            17,
+            18
+          ],
+          "max": 1.0801092018581433,
+          "mean": 1.0451056749152399
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 15,
+          "flagged_seeds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            13,
+            14,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.1452985610077806,
+          "mean": 1.0798002259626536
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.008674054115561,
+          "mean": 1.0032737066071513
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0186112881328155,
+          "mean": 1.009236450445783
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 15,
+        "flagged_seeds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\erdos_renyi\\erdos_renyi_N20_tn5_20260918_170541\\summary_results.json",
+      "graph_type": "erdos_renyi",
+      "N": 20,
+      "T": 100,
+      "T_over_N": 5.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 3,
+          "flagged_seeds": [
+            3,
+            11,
+            16
+          ],
+          "max": 1.260053065368908,
+          "mean": 1.0398321058632223
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 11,
+          "flagged_seeds": [
+            3,
+            4,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18
+          ],
+          "max": 1.2407671134502847,
+          "mean": 1.0711754555096307
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.008534476852322,
+          "mean": 1.0032236401737105
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0266510491505982,
+          "mean": 1.0090050838830282
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 11,
+        "flagged_seeds": [
+          3,
+          4,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\erdos_renyi\\erdos_renyi_N20_tn10_20260918_211521\\summary_results.json",
+      "graph_type": "erdos_renyi",
+      "N": 20,
+      "T": 200,
+      "T_over_N": 10.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 6,
+          "flagged_seeds": [
+            0,
+            5,
+            8,
+            9,
+            17,
+            19
+          ],
+          "max": 1.3833533954925092,
+          "mean": 1.0584169224949818
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 19,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.3773741119207719,
+          "mean": 1.104506884633183
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0299111822177964,
+          "mean": 1.005721565771288
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.048048021392179,
+          "mean": 1.0153489060614533
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 19,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\erdos_renyi\\n50\\erdos_renyi_N50_tn05_20260919_063743\\summary_results.json",
+      "graph_type": "erdos_renyi",
+      "N": 50,
+      "T": 25,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 19,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19
+          ],
+          "max": 1.2411670221519822,
+          "mean": 1.1059139698414184
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 18,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "max": 1.628473208931889,
+          "mean": NaN
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0053793357433585,
+          "mean": 1.001748477533734
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0315365176578786,
+          "mean": 1.0140790946066518
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 20,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\grid\\grid_N20_tn05_20260917_151545\\summary_results.json",
+      "graph_type": "grid",
+      "N": 20,
+      "T": 10,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0318941247318403,
+          "mean": 1.018011002343658
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0434163730444426,
+          "mean": 1.0290349695256689
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.00963343548683,
+          "mean": 1.0043619711663863
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.018470754102291,
+          "mean": 1.0083516868499456
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 0,
+        "flagged_seeds": []
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\grid\\grid_N20_tn2_20260917_153759\\summary_results.json",
+      "graph_type": "grid",
+      "N": 20,
+      "T": 40,
+      "T_over_N": 2.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.04063927587577,
+          "mean": 1.0239810185689409
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 2,
+          "flagged_seeds": [
+            7,
+            9
+          ],
+          "max": 1.0586393957652052,
+          "mean": 1.0346652089877
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0118003398403,
+          "mean": 1.0039524775658395
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0196265786539211,
+          "mean": 1.0100522130326457
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 2,
+        "flagged_seeds": [
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\grid\\grid_N20_tn5_20260917_190826\\summary_results.json",
+      "graph_type": "grid",
+      "N": 20,
+      "T": 100,
+      "T_over_N": 5.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0482871376380578,
+          "mean": 1.02681497089404
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 5,
+          "flagged_seeds": [
+            0,
+            4,
+            15,
+            17,
+            18
+          ],
+          "max": 1.077473382708234,
+          "mean": 1.0422195240524132
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.008419676755044,
+          "mean": 1.0030820838457428
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.014062661798514,
+          "mean": 1.0072483067043871
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 5,
+        "flagged_seeds": [
+          0,
+          4,
+          15,
+          17,
+          18
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\grid\\grid_N20_tn10_20260918_072152\\summary_results.json",
+      "graph_type": "grid",
+      "N": 20,
+      "T": 200,
+      "T_over_N": 10.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 2,
+          "flagged_seeds": [
+            2,
+            5
+          ],
+          "max": 1.0851417869387687,
+          "mean": 1.0297708681635913
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 5,
+          "flagged_seeds": [
+            2,
+            4,
+            5,
+            13,
+            15
+          ],
+          "max": 1.0993284137609292,
+          "mean": 1.041255331381656
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0055809344435171,
+          "mean": 1.0022100600231978
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0151881462227434,
+          "mean": 1.0087027128947101
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 5,
+        "flagged_seeds": [
+          2,
+          4,
+          5,
+          13,
+          15
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\grid\\n50\\grid_N50_tn05_20260919_064127\\summary_results.json",
+      "graph_type": "grid",
+      "N": 50,
+      "T": 25,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 1,
+          "flagged_seeds": [
+            8
+          ],
+          "max": 1.0521608935073088,
+          "mean": 1.0306844930934143
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 14,
+          "flagged_seeds": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            14,
+            16,
+            17
+          ],
+          "max": 1.1230282841711137,
+          "mean": 1.055736702120098
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0120679047837267,
+          "mean": 1.0038983437958469
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.047143833372382,
+          "mean": 1.0181492586865668
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 14,
+        "flagged_seeds": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11,
+          12,
+          14,
+          16,
+          17
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\scale_free\\scale_free_N20_tn05_20260917_121332\\summary_results.json",
+      "graph_type": "scale_free",
+      "N": 20,
+      "T": 10,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0357463970160548,
+          "mean": 1.0130899254859775
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 4,
+          "flagged_seeds": [
+            1,
+            2,
+            5,
+            14
+          ],
+          "max": 1.120126749830398,
+          "mean": 1.043324257883269
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0156745398968372,
+          "mean": 1.004405214115383
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0300830010832045,
+          "mean": 1.0108856952095837
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 4,
+        "flagged_seeds": [
+          1,
+          2,
+          5,
+          14
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\scale_free\\scale_free_N20_tn2_20260917_133609\\summary_results.json",
+      "graph_type": "scale_free",
+      "N": 20,
+      "T": 40,
+      "T_over_N": 2.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0233086083840204,
+          "mean": 1.0154375392718331
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 5,
+          "flagged_seeds": [
+            0,
+            2,
+            5,
+            10,
+            13
+          ],
+          "max": 1.0768561229836149,
+          "mean": 1.041697980639395
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0153462186741553,
+          "mean": 1.0047895246783103
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0283672098542274,
+          "mean": 1.0150154170908543
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 5,
+        "flagged_seeds": [
+          0,
+          2,
+          5,
+          10,
+          13
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\scale_free\\scale_free_N20_tn5_20260918_105748\\summary_results.json",
+      "graph_type": "scale_free",
+      "N": 20,
+      "T": 100,
+      "T_over_N": 5.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0192860915385638,
+          "mean": 1.0100034298706524
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 1,
+          "flagged_seeds": [
+            17
+          ],
+          "max": 1.0553833869100833,
+          "mean": 1.0233191972799316
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.013036709925781,
+          "mean": 1.0037256734648288
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0208735588010347,
+          "mean": 1.0082682943236094
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 1,
+        "flagged_seeds": [
+          17
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\scale_free\\scale_free_N20_tn10_20260918_201806\\summary_results.json",
+      "graph_type": "scale_free",
+      "N": 20,
+      "T": 200,
+      "T_over_N": 10.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0496567618229917,
+          "mean": 1.0200409396089218
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0435180460426916,
+          "mean": 1.029526786355106
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0198798407386005,
+          "mean": 1.006738459861255
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0441781858328418,
+          "mean": 1.017490430659129
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 0,
+        "flagged_seeds": []
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\scale_free\\n50\\scale_free_N50_tn05_20260919_065510\\summary_results.json",
+      "graph_type": "scale_free",
+      "N": 50,
+      "T": 25,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 2,
+          "flagged_seeds": [
+            11,
+            14
+          ],
+          "max": 1.0525696132323255,
+          "mean": 1.0282846222317945
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 16,
+          "flagged_seeds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            19
+          ],
+          "max": 1.2238433377883586,
+          "mean": 1.09076772866029
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.008312843903098,
+          "mean": 1.0039107027995324
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0378767945958745,
+          "mean": 1.0180252410285429
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 16,
+        "flagged_seeds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\sparse_factorized\\sparse_factorized_N20_tn05_20260919_144335\\summary_results.json",
+      "graph_type": "sparse_factorized",
+      "N": 20,
+      "T": 10,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 8,
+          "flagged_seeds": [
+            1,
+            5,
+            9,
+            11,
+            12,
+            17,
+            18,
+            19
+          ],
+          "max": 1.5589844486322306,
+          "mean": 1.115369436380367
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 19,
+          "flagged_seeds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.6411747735604856,
+          "mean": 1.2095582782699288
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0277376624763916,
+          "mean": 1.0086320297595903
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 1,
+          "flagged_seeds": [
+            12
+          ],
+          "max": 1.0733105123779534,
+          "mean": 1.0219282341850142
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 19,
+        "flagged_seeds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\sparse_factorized\\sparse_factorized_N20_tn2_20260919_144736\\summary_results.json",
+      "graph_type": "sparse_factorized",
+      "N": 20,
+      "T": 40,
+      "T_over_N": 2.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 13,
+          "flagged_seeds": [
+            0,
+            1,
+            5,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.6768164589700754,
+          "mean": 1.1572031187337963
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 18,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            19
+          ],
+          "max": 1.9084931534941478,
+          "mean": NaN
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.043681968383803,
+          "mean": 1.0159225711518274
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 8,
+          "flagged_seeds": [
+            1,
+            2,
+            9,
+            11,
+            12,
+            14,
+            17,
+            19
+          ],
+          "max": 1.2388052038795843,
+          "mean": 1.0589043621971506
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 20,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\sparse_factorized\\sparse_factorized_N20_tn5_20260919_144725\\summary_results.json",
+      "graph_type": "sparse_factorized",
+      "N": 20,
+      "T": 100,
+      "T_over_N": 5.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 11,
+          "flagged_seeds": [
+            0,
+            1,
+            5,
+            7,
+            9,
+            11,
+            12,
+            14,
+            17,
+            18,
+            19
+          ],
+          "max": 1.3012496330984733,
+          "mean": 1.0847668672561666
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 14,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            7,
+            9,
+            10,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17
+          ],
+          "max": 1.795395565198766,
+          "mean": NaN
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 1,
+          "flagged_seeds": [
+            19
+          ],
+          "max": 1.0819247168622832,
+          "mean": 1.0113597857172736
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 3,
+          "flagged_seeds": [
+            12,
+            17,
+            19
+          ],
+          "max": 1.2437261778993978,
+          "mean": 1.0491290067002492
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 16,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          7,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\sparse_factorized\\sparse_factorized_N20_tn10_20260919_144834\\summary_results.json",
+      "graph_type": "sparse_factorized",
+      "N": 20,
+      "T": 200,
+      "T_over_N": 10.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 15,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            8,
+            9,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.3953910345947977,
+          "mean": 1.1244962811122776
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 15,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "max": 1.8175666798702959,
+          "mean": NaN
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0356872536352117,
+          "mean": 1.0110392260001366
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 13,
+          "flagged_seeds": [
+            1,
+            2,
+            3,
+            4,
+            8,
+            9,
+            11,
+            12,
+            14,
+            15,
+            17,
+            18,
+            19
+          ],
+          "max": 1.273733378374899,
+          "mean": 1.0788701233729356
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 18,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\sparse_factorized\\sparse_factorized_N20_tn20_20260919_164630\\summary_results.json",
+      "graph_type": "sparse_factorized",
+      "N": 20,
+      "T": 400,
+      "T_over_N": 20.0,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 16,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.6220797454621019,
+          "mean": 1.2059743348090364
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 18,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            19
+          ],
+          "max": 2.1034327987163866,
+          "mean": NaN
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 1,
+          "flagged_seeds": [
+            17
+          ],
+          "max": 1.0632173165345984,
+          "mean": 1.0170691075669647
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 19,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.5798914552504693,
+          "mean": 1.185961091458088
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 20,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    },
+    {
+      "path": "C:\\Users\\mech-user\\rice_gnn\\rice_ggm\\920_bd_mala_swap_experiment_all_data\\experimental_datas_first\\sparse_factorized\\sparse_factorized_N50_tn05_20260920_185417\\summary_results.json",
+      "graph_type": "sparse_factorized",
+      "N": 50,
+      "T": 25,
+      "T_over_N": 0.5,
+      "n_seeds_total": 20,
+      "rhat_fields_found": [
+        "max_rhat_K_plain",
+        "max_rhat_K_rank",
+        "rhat_log_posterior_plain",
+        "rhat_log_posterior_rank"
+      ],
+      "per_field": {
+        "max_rhat_K_plain": {
+          "n_seeds": 20,
+          "n_flagged": 20,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 5.43516923749486,
+          "mean": 2.0853516980191533
+        },
+        "max_rhat_K_rank": {
+          "n_seeds": 20,
+          "n_flagged": 3,
+          "flagged_seeds": [
+            1,
+            14,
+            18
+          ],
+          "max": NaN,
+          "mean": NaN
+        },
+        "rhat_log_posterior_plain": {
+          "n_seeds": 20,
+          "n_flagged": 0,
+          "flagged_seeds": [],
+          "max": 1.0439671434519722,
+          "mean": 1.0087896809509416
+        },
+        "rhat_log_posterior_rank": {
+          "n_seeds": 20,
+          "n_flagged": 19,
+          "flagged_seeds": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "max": 1.3365722291602136,
+          "mean": 1.1333896855497931
+        }
+      },
+      "any_field_flagged": {
+        "n_flagged": 20,
+        "flagged_seeds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      }
+    }
+  ]
+}
